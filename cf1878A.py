@@ -10,4 +10,4 @@ def fun(n, k, A):
 for _ in range(t):
     n, k = map( int,input().split())
     A = list(map( int,input().split()))
-    print( fun(n,k,A))
+    print( fun(n,k,A)) 
