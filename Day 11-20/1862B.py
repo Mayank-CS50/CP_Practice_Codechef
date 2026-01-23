@@ -1,4 +1,4 @@
-for _ in range(int(input())):
+for _ in range(int(input())): #hi1234
     n=int(input())
     A=list(map(int,input().split()))
     print(n)
@@ -6,3 +6,5 @@ for _ in range(int(input())):
     
     a=10
     #a
+    #b
+    
