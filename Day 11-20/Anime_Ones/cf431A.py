@@ -1,3 +1,5 @@
+#CF431A
+
 A=list(map(int,input().split()))
 s=input()
 cal=0

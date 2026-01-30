@@ -1,3 +1,5 @@
+#CF2167A
+
 for _ in range(int(input())):
     n=int(input())
     s,t=input().split()
@@ -5,6 +7,8 @@ for _ in range(int(input())):
         print('YES')
     else:
         print('NO')
+        
+'''Anagram ka question, simple <bcz i'mma python ;_;'''
     # d1,d2={},{}
     # for i in range(n):
     #     if s[i] in d1:

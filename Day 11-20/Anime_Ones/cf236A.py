@@ -1,3 +1,5 @@
+#CF236A
+
 s=input()
 temp=set(s)
 if len(temp)%2==0:
